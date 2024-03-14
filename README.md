@@ -1,4 +1,4 @@
-login, sign up and password change page using django.
+created a login, sign up and password change page using django.
 
 
 to use the app :
